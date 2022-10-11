@@ -1,0 +1,12 @@
+
+.titlemain {
+display: flex;
+justify-Content: center;
+align-Items: center;
+flex: 1;
+background-Color: white;
+color: red;
+font-Size: 200px;
+font-weight: 900;
+font-Family: Arial, Helvetica, sans-serif;
+}
